@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="texto_pregunta">Aqui va la pregunta</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="correct_toast">Correcto!</string>
+    <string name="incorrect_toast">Incorrecto!</string>
+    <string name="final_message">Has completado el quiz</string>
+</resources>
