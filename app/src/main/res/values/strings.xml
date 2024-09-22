@@ -6,4 +6,10 @@
     <string name="correct_toast">Correcto!</string>
     <string name="incorrect_toast">Incorrecto!</string>
     <string name="final_message">Has completado el quiz</string>
+    <string name="next_button">Next</string>
+    <string name="pregunta2" translatable="false">Puedes irte de intercambio en 5to Semestre?</string>
+    <string name="pregunta3">10+10=5</string>
+    <string name="pregunta4">10+10=20</string>
+    <string name="prev_button">Anterior</string>
+    <string name="aviso">Da click en siguiente para pasar a la siguiente pregunta</string>
 </resources>

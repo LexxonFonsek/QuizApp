@@ -4,4 +4,12 @@
     <string name="texto_pregunta">Here is the question</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="final_message">Quiz as Completed</string>
+    <string name="next_button">Next</string>
+    <string name="pregunta3">10+10=5</string>
+    <string name="pregunta4">10+10=20</string>
+    <string name="prev_button">Previous</string>
+    <string name="aviso">Click on next for next question</string>
 </resources>
